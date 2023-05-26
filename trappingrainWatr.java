@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class trappingrainWatr {
+public class trappingrainWatr { //logic starts from here
     public static int trapRainWtr(int height[]){ // arg is a integer arry height
         int n = height.length;
         // calc- left max bound -- array
